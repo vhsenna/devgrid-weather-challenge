@@ -1,0 +1,10 @@
+alembic
+fastapi
+httpx
+pydantic
+pydantic-settings
+pytest
+pytest-asyncio
+pytest-cov
+python-dotenv
+uvicorn
