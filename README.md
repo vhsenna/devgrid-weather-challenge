@@ -1,6 +1,4 @@
-# DevGrid Weather Challenge
-
-## The Challenge
+# DevGrid Weather
 
 The goal of this project is to create an API that interacts with an external weather API to collect data for a list of cities and provide the ability to monitor the progress of this data collection asynchronously.
 
